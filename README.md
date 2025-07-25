@@ -5,12 +5,18 @@ Built with ❤️ using **Streamlit** and **scikit-learn**.
 
 ---
 
+## 📸 App Screenshot
+
+![App Screenshot](screenshot.png)
+
+---
+
 ## 🚀 Features
 
-- 📊 Predicts student grade based on inputs
-- 🧠 Trained using Linear Regression
-- 🖥️ Clean, beginner-friendly UI (Streamlit)
-- ✅ Works offline — just run and start predicting
+- 📊 Predicts student grade based on inputs  
+- 🧠 Trained using Linear Regression  
+- 🖥️ Clean, beginner-friendly UI (Streamlit)  
+- ✅ Works offline — just run and start predicting  
 
 ---
 
@@ -26,13 +32,14 @@ Built with ❤️ using **Streamlit** and **scikit-learn**.
 
 ## 📂 Project Structure
 
-student-performance-predictor/
-├── app.py # Streamlit UI code
-├── train_model.py # Model training script
-├── student_data.csv # Input dataset
-├── model.pkl # Trained model
-├── README.md # Project documentation
-└── .gitignore # Ignore unnecessary files
+student-performance-predictor/  
+├── app.py # Streamlit UI code  
+├── train_model.py # Model training script  
+├── student_data.csv # Input dataset  
+├── model.pkl # Trained model  
+├── screenshot.png # App screenshot image  
+├── README.md # Project documentation  
+└── .gitignore # Ignore unnecessary files  
 
 ---
 
