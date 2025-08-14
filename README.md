@@ -1,36 +1,36 @@
-# 📘 Student Performance Predictor
+# Student Performance Predictor
 
 An interactive web app that predicts a student's grade based on their **study hours**, **attendance**, and **sleep hours** using a **Machine Learning model**.  
-Built with ❤️ using **Streamlit** and **scikit-learn**.
+Built with using **Streamlit** and **scikit-learn**.
 
 ---
 
-## 📸 App Screenshot
+## App Screenshot
 
 ![App Screenshot](screenshot.png)
 
 ---
 
-## 🚀 Features
+## Features
 
-- 📊 Predicts student grade based on inputs  
-- 🧠 Trained using Linear Regression  
-- 🖥️ Clean, beginner-friendly UI (Streamlit)  
-- ✅ Works offline — just run and start predicting  
-
----
-
-## 🏗️ Tech Stack
-
-- Python 🐍  
-- Streamlit 🌐  
-- scikit-learn 🤖  
-- Pandas 📊  
-- NumPy 🔢  
+-  Predicts student grade based on inputs  
+-  Trained using Linear Regression  
+-  Clean, beginner-friendly UI (Streamlit)  
+-  Works offline — just run and start predicting  
 
 ---
 
-## 📂 Project Structure
+##  Tech Stack
+
+- Python   
+- Streamlit   
+- scikit-learn   
+- Pandas  
+- NumPy  
+
+---
+
+## Project Structure
 
 student-performance-predictor/  
 ├── app.py # Streamlit UI code  
@@ -43,7 +43,7 @@ student-performance-predictor/
 
 ---
 
-## ▶️ How to Run Locally
+## How to Run Locally
 
 ### 1. Clone the Repo
 
